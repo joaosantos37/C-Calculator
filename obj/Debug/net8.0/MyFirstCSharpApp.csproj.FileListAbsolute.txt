@@ -1,0 +1,14 @@
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp.deps.json
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp.runtimeconfig.json
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp.dll
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp.pdb
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.AssemblyInfoInputs.cache
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.AssemblyInfo.cs
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.csproj.CoreCompileInputs.cache
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.dll
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/refint/MyFirstCSharpApp.dll
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.pdb
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.genruntimeconfig.cache
+/Users/joaosantos/Desktop/untitled folder 5/MyFirstCSharpApp/obj/Debug/net8.0/ref/MyFirstCSharpApp.dll
